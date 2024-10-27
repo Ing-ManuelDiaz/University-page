@@ -1,0 +1,172 @@
+body{
+    background: white; 
+    color: #2a871d;
+    border-top: 3px solid #2a871d; padding-top: 3px; margin-top: 0px; margin-inline: 10px;
+}
+
+.color{
+    background: #f2efef;
+    padding-bottom: 0px;  
+}
+
+.flex-container1{
+   
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    border-bottom: 1px solid #EBEBEB;
+}
+
+.flex-container2{ 
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 85px;
+    gap: 22px;
+}
+
+.flex-container3{
+padding-top: 5px;
+display: flex;
+justify-content: space-between;
+align-items: center;
+}
+
+.flex-container4{
+    padding-top: 5px;
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    color: #a0ce4e;
+    text-align: center;
+    font-size: 40px;
+    gap: 50px;
+    
+}
+
+.flex-container5{
+    padding-right: 10px;
+    display: flex;
+    justify-content: center;
+    background: rgb(47, 46, 46);
+    text-align: center;
+}
+
+
+.flex-container6{
+    padding-top: 20px;
+    padding-right: 10px;
+    display: flex;
+    justify-content: flex-end;
+    text-align: end;
+    font-size: 23px;
+    font-family: sans-serif;
+    color: black;
+}
+
+.flex-container7{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    border-bottom: 1px solid #EBEBEB;
+}
+
+.espacioblanco{
+    width: 360px;
+}
+
+.espacioblanco2{
+    width: 360px;
+}
+
+.espacioblanco3{
+    width: 5%;
+}
+
+.espacioblanco4{
+    height: 5%;
+}
+
+.espacioblanco5{
+    width: 15px;
+}
+
+.barra{
+    border-right:  1px solid #EBEBEB;
+    font-style: normal;
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #2a871d;
+    margin-left: 20px;
+    width: 40%;
+    
+}
+.link{
+    text-decoration: none;
+    color: inherit;
+}
+.barra2{
+    font-size: 18px;
+    font-family: sans-serif;
+    color: black;
+}
+
+.barra3{
+    font-size: 30px;
+    font-family: sans-serif;
+    color: black;
+}
+
+.logo{ 
+    width: 250px;
+    height: 250x;
+}
+
+.banner{
+    width: 100%;
+    height: 100%;
+}
+
+.letra{
+    font-style: normal;
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    
+    
+}
+.radio{
+    height: 715px;
+    width: 1600px;  
+}
+.foto{
+     height: 241px;
+     width: 302px;
+}
+.foto2{
+    height: 441px;
+    width: 302px;
+    align-content: center;
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    text-align: center;
+}
+
+.fotoPrincipal{
+    height: 515px;
+    width: 812px;
+}
+
+.imagenesAlineadas{
+    align-content: center;
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    text-align: center;
+}
+
+.imagenAjustada{
+width: 1500px;
+}
